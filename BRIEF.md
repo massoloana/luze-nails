@@ -34,6 +34,13 @@ La duración de 14 a 21 días es el plazo recomendado para volver a hacerse el s
 - Mapa de Google Maps embebido en la web real (sin API key: `https://www.google.com/maps?q=1%C2%B0%20de%20Mayo%201015%2C%20Mar%20del%20Plata&output=embed`)
 - Botón "Cómo llegar": `https://www.google.com/maps/dir/?api=1&destination=1%C2%B0%20de%20Mayo%201015%2C%20Mar%20del%20Plata%2C%20Buenos%20Aires`
 
+## Bloques extra
+
+- **Galería con filtros** (Semi / Kapping / Deco) y botón "Quiero este diseño" que abre WhatsApp
+- **Reseñas:** por ahora son textos de ejemplo, marcados como tales. Antes de publicar se reemplazan por reseñas reales de clientas (con su permiso)
+- **Cuidados:** guantes para limpiar, no usar las uñas como herramienta, aceite de cutícula, volver a los 14–21 días
+- **Reglas de los turnos (a confirmar):** 10 min de tolerancia, cancelar con 24 hs, ¿seña?, avisar si viene con trabajo de otro lado
+
 ## Público
 
 - Mujeres de 20 a 25 años y, cada vez más, de 30 a 45 años (por el gimnasio)
@@ -53,4 +60,5 @@ La duración de 14 a 21 días es el plazo recomendado para volver a hacerse el s
 - Gift cards: ¿monto libre o por servicio?
 - Fotos originales de Cande y de los trabajos (sin la interfaz de Instagram)
 - Texto de presentación de Cande
-- Reseñas de clientas
+- Reseñas reales de clientas (reemplazan a las de ejemplo antes de publicar)
+- Reglas de los turnos: tolerancia, cancelación, seña
