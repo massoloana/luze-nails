@@ -39,7 +39,7 @@ La duración de 14 a 21 días es el plazo recomendado para volver a hacerse el s
 - **Galería con filtros** (Semi / Kapping / Deco) y botón "Quiero este diseño" que abre WhatsApp
 - **Reseñas:** por ahora son textos de ejemplo, marcados como tales. Antes de publicar se reemplazan por reseñas reales de clientas (con su permiso)
 - **Cuidados:** guantes para limpiar, no usar las uñas como herramienta, aceite de cutícula, volver a los 14–21 días
-- **Reglas de los turnos (a confirmar):** 10 min de tolerancia, cancelar con 24 hs, ¿seña?, avisar si viene con trabajo de otro lado
+- **Reglas de los turnos (borrador, a revisar con Cande):** reserva por WhatsApp, seña por transferencia que se descuenta, 10 min de tolerancia, cancelar con 24 hs (si no, se pierde la seña), avisar si viene con trabajo de otro lado, arreglo sin cargo en los primeros 5 días
 
 ## Público
 
@@ -50,7 +50,8 @@ La duración de 14 a 21 días es el plazo recomendado para volver a hacerse el s
 
 - Moodboard: `moodboard/index.html`
 - Referencias: `referencias-esteticas/`
-- Paleta: crema #FFF8F3, celeste tinta #4B5A69, celeste apagado #A9BDCC, rosa #F5A8BD, durazno #FBC49E, manteca #FBE39E
+- Inicio: degradé en malla con 5 manchas de color que se mueven (rosa, manteca, durazno, celeste, lila)
+- Paleta: crema #FFF8F3, celeste tinta #4B5A69, celeste apagado #A9BDCC, rosa #F5A8BD, durazno #FBC49E, manteca #FBE39E, lila #E9C6E8 (solo en el degradé)
 - Tipografías: Cormorant Garamond (títulos), firma a elegir entre Parisienne, Pinyon Script, Great Vibes, Allura y Ms Madi (logo, firma y gift card), Figtree (textos)
 - Animaciones: cinta ondulada, brillitos, banda que corre, degradé que respira, stickers que flotan, botón de WhatsApp que late
 
@@ -58,7 +59,8 @@ La duración de 14 a 21 días es el plazo recomendado para volver a hacerse el s
 
 - Precios: ¿se muestran?
 - Gift cards: ¿monto libre o por servicio?
-- Fotos originales de Cande y de los trabajos (sin la interfaz de Instagram)
+- Foto original de Cande (sin la interfaz de Instagram)
+- Confirmar qué servicio es cada foto de `servicios/imagenes/`
 - Texto de presentación de Cande
 - Reseñas reales de clientas (reemplazan a las de ejemplo antes de publicar)
-- Reglas de los turnos: tolerancia, cancelación, seña
+- Revisar con Cande el borrador de reglas de los turnos
