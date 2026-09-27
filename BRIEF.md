@@ -44,7 +44,7 @@ La duración de 14 a 21 días es el plazo recomendado para volver a hacerse el s
 - Moodboard: `moodboard/index.html`
 - Referencias: `referencias-esteticas/`
 - Paleta: crema #FFF8F3, celeste tinta #4B5A69, celeste apagado #A9BDCC, rosa #F5A8BD, durazno #FBC49E, manteca #FBE39E
-- Tipografías: Cormorant Garamond (títulos), Satisfy (logo y firma), Figtree (textos)
+- Tipografías: Cormorant Garamond (títulos), firma a elegir entre Parisienne, Pinyon Script, Great Vibes, Allura y Ms Madi (logo, firma y gift card), Figtree (textos)
 - Animaciones: cinta ondulada, brillitos, banda que corre, degradé que respira, stickers que flotan, botón de WhatsApp que late
 
 ## Pendientes
