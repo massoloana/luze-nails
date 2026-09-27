@@ -24,10 +24,15 @@ La duración de 14 a 21 días es el plazo recomendado para volver a hacerse el s
 ## Beneficios
 
 - **Tarjeta de fidelidad:** cada 10 servicios, un esmaltado semipermanente gratis. Letra chica: si ese día elegís kapping o deco, se abona la diferencia.
-- **Socias de Fusella:** descuento en los turnos (% a definir)
-- **Traé a una amiga:** descuento para las dos en el próximo turno (% a definir)
-- **Mes de cumpleaños:** beneficio a definir
+- **Socias de Fusella:** 10% de descuento en los turnos
+- **Traé a una amiga:** si viene por primera vez, las dos tienen 10% de descuento
+- **Mes de cumpleaños:** la deco en uñas va de regalo
 - **Gift Cards** para regalar
+
+## Cómo llegar
+
+- Mapa de Google Maps embebido en la web real (sin API key: `https://www.google.com/maps?q=1%C2%B0%20de%20Mayo%201015%2C%20Mar%20del%20Plata&output=embed`)
+- Botón "Cómo llegar": `https://www.google.com/maps/dir/?api=1&destination=1%C2%B0%20de%20Mayo%201015%2C%20Mar%20del%20Plata%2C%20Buenos%20Aires`
 
 ## Público
 
@@ -46,7 +51,6 @@ La duración de 14 a 21 días es el plazo recomendado para volver a hacerse el s
 
 - Precios: ¿se muestran?
 - Gift cards: ¿monto libre o por servicio?
-- Porcentajes de los descuentos y regalo de cumpleaños
 - Fotos originales de Cande y de los trabajos (sin la interfaz de Instagram)
 - Texto de presentación de Cande
 - Reseñas de clientas
