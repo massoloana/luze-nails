@@ -61,6 +61,6 @@ La duración de 14 a 21 días es el plazo recomendado para volver a hacerse el s
 - Gift cards: ¿monto libre o por servicio?
 - Foto original de Cande (sin la interfaz de Instagram)
 - Confirmar qué servicio es cada foto de `servicios/imagenes/`
-- Texto de presentación de Cande
+- Revisar con Cande la bio de "Sobre mí"
 - Reseñas reales de clientas (reemplazan a las de ejemplo antes de publicar)
 - Revisar con Cande el borrador de reglas de los turnos

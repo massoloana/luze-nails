@@ -52,4 +52,12 @@
   }
 
   document.getElementById('anio').textContent = new Date().getFullYear();
+
+  // Si el navegador bloquea el mapa de Google, queda visible el dibujo con el enlace
+  document.addEventListener('securitypolicyviolation', function (e) {
+    if (/frame-src|child-src|default-src/.test(e.violatedDirective) && /google/.test(e.blockedURI)) {
+      var mapa = document.querySelector('.mapa iframe');
+      if (mapa) mapa.remove();
+    }
+  });
 })();
